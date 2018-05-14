@@ -1,0 +1,12 @@
+AgoraGamingSDK/
+frameworks/cocos2d-html5/
+frameworks/cocos2d-x
+gen
+frameworks/runtime-src/proj.android-studio/app/Hello_CocosJsVideo_Agora.iml
+frameworks/runtime-src/proj.android-studio/app/libs/
+frameworks/runtime-src/proj.android-studio/app/obj/
+
+frameworks/runtime-src/proj.android-studio/.idea/
+frameworks/runtime-src/proj.android-studio/app/assets/
+frameworks/runtime-src/proj.android-studio/proj.android-studio.iml
+frameworks/runtime-src/proj.ios_mac/Hello_CocosJsVideo_Agora.xcodeproj/project.xcworkspace/xcuserdata/beck.xcuserdatad/*
